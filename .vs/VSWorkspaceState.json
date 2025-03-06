@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\application",
+    "\\common",
+    "\\dao",
+    "\\docker",
+    "\\img",
+    "\\monitoring",
+    "\\msa",
+    "\\ui-ngx"
+  ],
+  "PreviewInSolutionExplorer": false
+}
